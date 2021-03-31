@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* This repository is for post-processing of level 1 AstroSAT data from the LAXPC instrument to level 2 and analyzing the data.
+* This repository is for post-processing of level 1 AstroSAT data from the LAXPC instrument to level 2 and analyzing the data. This work was supported by Canadian Space Agency funding (18ASTROS-2).
 
 ### LAXPC data analysis using LAXPC software available [here](http://astrosat-ssc.iucaa.in/?q=laxpcData)
 
